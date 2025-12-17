@@ -34,7 +34,7 @@ A robust, scalable, and maintainable **Currency Converter API** built with **C#*
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/currency-converter-api.git
+git clone https://github.com/nmokariya25/currency-converter-api.git
 cd currency-converter-api
 
 2. Restore dependencies:
