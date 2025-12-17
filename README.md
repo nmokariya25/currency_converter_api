@@ -25,9 +25,8 @@ A robust, scalable, and maintainable **Currency Converter API** built with **C#*
 
 ### Prerequisites
 
-- [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+- .NET 8.0
 - Visual Studio 2022 or VS Code
-- SQL Server (optional for persistence)
 
 ### Installation
 
