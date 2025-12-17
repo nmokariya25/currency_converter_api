@@ -47,7 +47,9 @@ dotnet build
 
 4. Run the API:
 
-dotnet run
+cd src
+
+dotnet run --project ./CurrencyConverter.Api/CurrencyConverter.Api.csproj
 
 Endpoints
 
